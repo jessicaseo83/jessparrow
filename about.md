@@ -25,18 +25,18 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 {% highlight txt %}
 
 - Javascript
-- React.js
-- Node.js
-- Express.js
+- React/Redux
+- Nodejs
+- PostgreSQL
 - Ruby on Rails
 - Python
-- PostgreSQL
+- HTML, CSS, SASS
 - Ajax, JQuery
 - Testing (Mocha & Chai, Storybook, Jest, Cypress)
-- HTML
-- CSS, SASS
-- Bootstrap
+- GraphQL
+- AWS
 - Git/Github
+- Figma
   {% endhighlight %}  
   &nbsp;
   &nbsp;
