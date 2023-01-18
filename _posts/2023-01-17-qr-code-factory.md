@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'Yummy Meals'
+title: 'QR Code Factory'
 date: 2022-02-11 21:15:00
 categories: development
 tags: Javascript TailwindCSS
