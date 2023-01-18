@@ -9,5 +9,5 @@ featured_image: 'img/posts/06_qrcode_factory.png'
 project_link: 'https://qrcode-factory.netlify.app/'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: 'A QR Code generator app with TailwindCSS'
+lead_text: 'A mobile friendly QR Code generator app with TailwindCSS'
 ---
