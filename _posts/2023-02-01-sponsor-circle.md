@@ -4,7 +4,7 @@ position: right
 title: 'Sponsor Circle'
 date: 2023-02-01 21:15:00
 categories: development
-tags: React SCSS Ruby on Rails
+tags: React SCSS RubyonRails
 featured_image: 'img/posts/07_sponsor_circle.png'
 project_link: 'https://app.sponsorcircle.com/'
 button_icon: 'flask'
