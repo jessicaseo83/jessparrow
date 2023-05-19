@@ -99,6 +99,6 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - {
-      url: 'https://www.canva.com/design/DAErEJN09a4/kEjMwBF54LRWy5L7V08DNA/view?utm_content=DAErEJN09a4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
+      url: 'https://www.canva.com/design/DAFK0QOvBfk/G67k6pBoGGWTVntmoegbaw/view?utm_content=DAFK0QOvBfk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
       text: 'Resume',
     }
